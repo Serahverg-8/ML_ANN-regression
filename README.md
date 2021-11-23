@@ -1,1 +1,1 @@
-# ML_starter_projects
+# ANN to predcict car purchasing capabilities
